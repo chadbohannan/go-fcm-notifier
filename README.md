@@ -9,6 +9,7 @@ import (
   "appengine/urlfetch"
   "net/http"
   ...
+  "github.com/chadbohannan/go-fcm-notifier"
 )
 
 const FirebaseApiKey = "AIz..."
